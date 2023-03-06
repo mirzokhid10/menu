@@ -69,7 +69,7 @@ const menu = [
     category: "shakes",
     price: 16.99,
     img: "./images/item-9.jpeg",
-    desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
+    desc: `skateboard fam synth authentic semiotics. Live-edge lyft of, edison bulb yuccie crucifix microdosing.`,
   },
   {
     id: 10,
